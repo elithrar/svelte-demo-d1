@@ -1,5 +1,8 @@
 #  Example: SvelteKit + Cloudflare D1
 
+## This is solved better with Miniflare
+https://github.com/gerhardcit/svelte-cf-bindings-poc
+
 **Note**: 🧪 This is a example application and is not officially supported by Cloudflare.
 
 An example SvelteKit project on Cloudflare Pages (https://developers.cloudflare.com/pages/framework-guides/deploy-a-svelte-site/) that connects to a [D1 database](https://developers.cloudflare.com/d1/).

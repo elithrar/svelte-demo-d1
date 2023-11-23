@@ -1,0 +1,8 @@
+name = "worker"
+compatibility_date = "2023-07-02"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "DB"
+# you need a db id for prod here of course.
+database_id = "55444"
